@@ -34,7 +34,7 @@ Hint: Your profile picture can be an image or avatar of yourself, then the cover
 Your bio should be a brief description of yourself or your business.
 Mention your interests, location, or anything that sets you apart.
 
-![Screenshot from 2023-10-21 15-26-22](https://github.com/DrInTech22/Twitter_Guide/assets/94924061/363c11e7-49c1-4d82-9b64-2cf368960ea6)
+![profile and bio image](https://github.com/DrInTech22/Twitter_Guide/assets/94924061/363c11e7-49c1-4d82-9b64-2cf368960ea6)
 
 
 
@@ -44,7 +44,7 @@ Posting a tweet is easy, let’s make our first post.
 2. Type your message within the 280-character limit.
 3. You can add hashtags, mentions, and images to make your tweet engaging.
 
-![post](https://github.com/DrInTech22/Twitter_Guide/assets/94924061/f330c081-b402-41cd-8d13-6f18d60d4ef9)
+![post image](https://github.com/DrInTech22/Twitter_Guide/assets/94924061/f330c081-b402-41cd-8d13-6f18d60d4ef9)
 
 5. Click "post" to share it with your followers.
 
