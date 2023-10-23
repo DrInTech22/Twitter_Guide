@@ -29,7 +29,9 @@ Once your account is created, it's time to set up your profile.
 ### Create a Profile
 - Click the profile icon on the left side bar
 - Click "Edit Profile" and add a profile picture and cover photo.
+<br>
 Hint: Your profile picture can be an image or avatar of yourself, then the cover photo should represent your ideas, interest, work or business.
+
 ### Customize Bio
 Your bio should be a brief description of yourself or your business.
 Mention your interests, location, or anything that sets you apart.
