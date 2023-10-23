@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Twitter, like other social media platforms, serves as a hub for connecting people, facilitating communication, and staying informed. This beginner's guide provides an introduction to Twitter, guiding you through its fundamentals and effective usage."
+Twitter, like other social media platforms, serves as a hub for connecting people, facilitating communication, and staying informed. This beginner's guide provides an introduction to Twitter, guiding you through its fundamentals and best usage."
 
 ## What is Twitter?
 Twitter is a social media platform that allows users to share short messages known as "tweets", limited to 280 characters. This versatile platform serves a variety of purposes, from sharing news and connecting with like-minded individuals to promoting businesses and staying updated on current events.
@@ -14,7 +14,7 @@ Twitter is also a valuable tool for businesses. It allows you to transform your 
 
 
 ## How to Create an Account
-To get started on Twitter, you'll need an account. Here's how:
+To get started on Twitter, you'll need an account. Here's how: 
 
 1. **Visit Twitter**: Go to Twitter, click "Sign up with google" and select your google account.
 
